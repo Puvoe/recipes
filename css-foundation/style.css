@@ -1,0 +1,15 @@
+.heading.heading2 {
+	color:white;
+}
+.heading {
+	background-color:red;
+	font-size:32px;
+}
+.heading2.button {
+	background-color:green;
+	font-size:18px;
+}
+.button {
+	background-color:orange;
+}
+
